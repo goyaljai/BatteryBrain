@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BatteryLifePredection</string>
+    <string name="day_hour_abb">%1$d d %2$d h</string>
+    <string name="days">%d d</string>
+    <string name="hour_min_abb">%1$d h %2$d m</string>
+    <string name="hours">%d h</string>
+    <string name="minutes">%d m</string>
+    <string name="one_day">1 day</string>
+    <string name="more_days">%d days</string>
+    <string name="one_hour_no_minute">1 hour</string>
+    <string name="more_hours_no_minute">%d hours</string>
+    <string name="no_hour_one_minute">1 minute</string>
+    <string name="no_hour_more_minutes">%d minutes</string>
+    <string name="unavailable_text">Unavailable</string>
+</resources>
